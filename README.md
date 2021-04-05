@@ -31,7 +31,19 @@
   <summary><a href="https://www.python.org/">Python</a></summary>
    <br>
    
- ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg)   
+ ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg) 
+
+  <summary><a href="https://www.python.org/">Python</a></summary>
+   <br>
+   
+ ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg)
+ 
+   <summary><a href="https://www.python.org/">Python</a></summary>
+   <br>
+   
+ ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg)
+ 
+ 
    
   
    
