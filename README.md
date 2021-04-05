@@ -2,7 +2,7 @@
 > Hey people welcome to my github profile.
 <hr>
 
-![GitHub Logo](/images/logo.png)
+![Python](/images/logo.png)
 
 Skills
 
