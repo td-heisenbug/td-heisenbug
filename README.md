@@ -51,7 +51,8 @@
  <summary><a href="https://www.linux.org/">Linux</a></summary>
    <br>
    
- ![kje](https://user-images.githubusercontent.com/80757858/113535067-098f2d80-95f0-11eb-8efc-0c6d042c3466.jpg)
+ 
+![kje_100x100](https://user-images.githubusercontent.com/80757858/113535376-da2cf080-95f0-11eb-9d2e-ff666f35f78d.jpg)
  
  
    
