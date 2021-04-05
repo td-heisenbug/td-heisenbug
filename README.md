@@ -11,9 +11,8 @@
 
   <p style="text-align: center;">
   <p>
-    Hello people!
+    We often tend to forget about the importance of online privacy as much as online privacy.Here is a website to get you started to take better control of your private life.
     </p>
-    <br />
     <a href="https://privacytools.io/"><strong>privacytools.io »</strong></a>
 
 <!-- TABLE OF CONTENTS -->
