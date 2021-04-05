@@ -1,5 +1,5 @@
   <h2 style="text-align: center;">Hello-people!</h2>
-  <h3>I like ML/AI algorithms and infosec</h3>
+  <h4>I like ML/AI algorithms and infosec</h4>
   <h3>Since you are passing by, take a minute to learn about online privacy</h3>
 
   <p style="text-align: center;">
