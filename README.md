@@ -1,5 +1,6 @@
   <h2 style="text-align: center;">Hello-people!</h2>
   <h4>I'm an undergraduate student, majoring in computer science</h4>
+  <h4>I like to learn about new ML/AI algortihms and infosec vulnerabilities</h4>
   <h3>Since you are passing by, take a minute to learn about online privacy</h3>
 
   <p style="text-align: center;">
