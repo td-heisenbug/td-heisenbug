@@ -46,12 +46,12 @@
   <summary><a href="https://www.rust-lang.org/">Rust</a></summary>
    <br>
    
- ![indedcx_1_100x100](https://user-images.githubusercontent.com/80757858/113534928-9e455b80-95ef-11eb-82e6-e82363a5f9ed.png)
+   ![indeex_1_100x100](https://user-images.githubusercontent.com/80757858/113534962-b7e6a300-95ef-11eb-867c-11c499e87eef.png)
  
  <summary><a href="https://www.linux.org/">Linux</a></summary>
    <br>
    
- ![indedcx_1_100x100](https://user-images.githubusercontent.com/80757858/113534928-9e455b80-95ef-11eb-82e6-e82363a5f9ed.png)
+ ![kje](https://user-images.githubusercontent.com/80757858/113535067-098f2d80-95f0-11eb-8efc-0c6d042c3466.jpg)
  
  
    
