@@ -41,7 +41,7 @@
    <summary><a href="https://www.cplusplus.com/">C++</a></summary>
    <br>
    
- ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg)
+ ![indedcx_1_100x100](https://user-images.githubusercontent.com/80757858/113534928-9e455b80-95ef-11eb-82e6-e82363a5f9ed.png)
  
  
    
