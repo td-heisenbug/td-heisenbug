@@ -2,7 +2,8 @@
 > Hey people welcome to my github profile.
 <hr>
 
-
+<h3>SKILLS<h3>
+ 
   * ![HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   
   
