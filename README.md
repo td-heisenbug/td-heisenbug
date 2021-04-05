@@ -3,7 +3,4 @@
 <hr>
 
 ![Python](/images/logo.png)
-
-Skills
-
-![](https://img.shields.io/badge/<WT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![index_100x100](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)
