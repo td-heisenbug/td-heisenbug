@@ -1,41 +1,25 @@
-# About me
-> Hey people welcome to my github profile.
-<hr>
+<!-- PROJECT LOGO -->
+<br />
+<p style="text-align: center;">
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
- <h3>SKILLS<h3>
- 
-  * ![HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-  
-  
-![HTML](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)
+  <h3 style="text-align: center;">Best-README-Template</h3>
+  <h3 align="center">Best-README-Template</h3>
 
-  
-  * ![CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  
-  
-![HTML](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)
+  <p style="text-align: center;">
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
 
-  * ![HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-  
-  
-![HTML](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)
-
-  * ![HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-  
-  
-![HTML](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)
-
-  * ![HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-  
-  
-![HTML](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)
-
-  * ![HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-  
-  
-![HTML](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)
-
-
-
-
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
  
