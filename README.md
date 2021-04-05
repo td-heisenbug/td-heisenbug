@@ -6,8 +6,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 style="text-align: center;">About-me</h3>
-  <h3 align="center">About-me</h3>
+  <h3 style="text-align: center;">Hello-people</h3>
+  <h3 align="center">Since you are passing by, take a minute to learn about online privacy</h3>
 
   <p style="text-align: center;">
   <p align="center">
