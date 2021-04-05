@@ -36,7 +36,7 @@
   <summary><a href="https://www.cprogramming.com/">C</a></summary>
    <br>
    
- ![indeex_1_100x100](https://user-images.githubusercontent.com/80757858/113534962-b7e6a300-95ef-11eb-867c-11c499e87eef.png)
+![ifdex_1_100x100](https://user-images.githubusercontent.com/80757858/113534896-8e2d7c00-95ef-11eb-852b-9034bbd1e208.png)
  
    <summary><a href="https://www.cplusplus.com/">C++</a></summary>
    <br>
