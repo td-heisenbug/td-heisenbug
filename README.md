@@ -1,11 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
-<p style="text-align: center;">
-<p align="center">
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fjbbuchanan%2Fcoding-logo%2F&psig=AOvVaw3XPGM18a1W40xOoQ2hoF_h&ust=1617681501735000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjSlKyb5u8CFQAAAAAdAAAAABAD">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 style="text-align: center;">Hello-people!</h3>
   <h3>Since you are passing by, take a minute to learn about online privacy</h3>
 
