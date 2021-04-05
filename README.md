@@ -19,7 +19,5 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Skills</h2></summary>
   <summary>HTML</summary>
-  <ol>
-    <li>
       ![index_100x100](https://user-images.githubusercontent.com/80757858/113532315-b1086200-95e8-11eb-94e2-3cb042224461.png)"
  
