@@ -48,7 +48,7 @@
    
  ![indedcx_1_100x100](https://user-images.githubusercontent.com/80757858/113534928-9e455b80-95ef-11eb-82e6-e82363a5f9ed.png)
  
- <summary><a href="https://www.cplusplus.com/">C++</a></summary>
+ <summary><a href="https://www.linux.org/">Linux</a></summary>
    <br>
    
  ![indedcx_1_100x100](https://user-images.githubusercontent.com/80757858/113534928-9e455b80-95ef-11eb-82e6-e82363a5f9ed.png)
