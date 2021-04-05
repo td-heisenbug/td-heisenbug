@@ -26,13 +26,7 @@
   <summary><a href="https://www.python.org/">Python</a></summary>
    <br>
    
-  ![indvex_1_100x10s0](https://user-images.githubusercontent.com/80757858/113534468-730e3c80-95ee-11eb-82b3-153bb73f45b8.jpg)
-  
-  
-  
-  
-  
-  ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg)   
+ ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg)   
    
-   
+    ![indvex_1_100x10s0](https://user-images.githubusercontent.com/80757858/113534468-730e3c80-95ee-11eb-82b3-153bb73f45b8.jpg)
    
