@@ -19,33 +19,29 @@
    <summary><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></summary>
    <br> 
  
- ![indvex_1_100x10s0](https://user-images.githubusercontent.com/80757858/113534468-730e3c80-95ee-11eb-82b3-153bb73f45b8.jpg)
+
   
   <summary><a href="https://www.python.org/">Python</a></summary>
    <br>
-   
- ![index_2_100x100](https://user-images.githubusercontent.com/80757858/113534455-6d185b80-95ee-11eb-9423-2a62785aa153.jpg) 
+    
 
   <summary><a href="https://www.cprogramming.com/">C</a></summary>
    <br>
-   
-![ifdex_1_100x100](https://user-images.githubusercontent.com/80757858/113534896-8e2d7c00-95ef-11eb-852b-9034bbd1e208.png)
  
    <summary><a href="https://www.cplusplus.com/">C++</a></summary>
    <br>
    
- ![indedcx_1_100x100](https://user-images.githubusercontent.com/80757858/113534928-9e455b80-95ef-11eb-82e6-e82363a5f9ed.png)
  
   <summary><a href="https://www.rust-lang.org/">Rust</a></summary>
    <br>
    
-   ![indeex_1_100x100](https://user-images.githubusercontent.com/80757858/113534962-b7e6a300-95ef-11eb-867c-11c499e87eef.png)
+
  
  <summary><a href="https://www.linux.org/">Linux</a></summary>
    <br>
    
  
-![kje_100x100](https://user-images.githubusercontent.com/80757858/113535376-da2cf080-95f0-11eb-9d2e-ff666f35f78d.jpg)
+
  
  
    
