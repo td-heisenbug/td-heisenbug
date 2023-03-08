@@ -7,7 +7,10 @@
     We often tend to forget about the importance of online privacy as much as offline privacy. Here is a website to get you started to take better control of your private life.
     </p>
     <a href="https://privacytools.io/"><strong>privacytools.io »</strong></a>
-
+  <h2>Tech Stack<h2>
+  <br>
+  <ol>
+    <li>Python</li>
 
    
  
