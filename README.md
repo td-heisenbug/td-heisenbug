@@ -10,6 +10,7 @@
   <h3>Tech Stack<h3>
   <br>
   <ol>
+    <p>
     <li>Python</li>
     <li>Flask</li>
     <li>Docker</li>
@@ -18,7 +19,7 @@
     <li>Firebase</li>
     <li>React</li>
     <li>Android-dev</li>
-
+    </p>
 
    
  
