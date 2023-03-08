@@ -7,10 +7,18 @@
     We often tend to forget about the importance of online privacy as much as offline privacy. Here is a website to get you started to take better control of your private life.
     </p>
     <a href="https://privacytools.io/"><strong>privacytools.io »</strong></a>
-  <h2>Tech Stack<h2>
+  <h3>Tech Stack<h3>
   <br>
   <ol>
     <li>Python</li>
+    <li>Flask</li>
+    <li>Docker</li>
+    <li>Azure</li>
+    <li>MongoDB</li>
+    <li>Firebase</li>
+    <li>React</li>
+    <li>Android-dev</li>
+
 
    
  
