@@ -9,7 +9,7 @@
     <a href="https://privacytools.io/"><strong>privacytools.io »</strong></a>
   <h3>Tech Stack<h3>
 
-  <ol>
+  <ul>
     <li>Python</li>
     <li>Flask</li>
     <li>Docker</li>
