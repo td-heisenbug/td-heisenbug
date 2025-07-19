@@ -1,5 +1,5 @@
   <h2 style="text-align: center;">Hello-people!</h2>
-  <h3>I'm majoring in computer science.<br>I like to learn about algortihms and infosec vulnerabilities</h3>
+  <h3>I'm a CS graduate.<br>I like to learn about algortihms and infosec vulnerabilities</h3>
    <h4>Since you are passing by, take a minute to learn about online privacy</h4>
 
   <p style="text-align: center;">
